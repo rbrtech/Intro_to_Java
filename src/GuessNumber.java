@@ -21,9 +21,8 @@ public class GuessNumber {
             if (guessCount == 0)
             {
                 System.out.println("\nSorry, you took too many guesses, so I've changed my number.\n");
-                guessCount = 6;
+                guessCount = 15;
                 correctNum = (int) (Math.random() * 100);
-                //System.out.println("Correct Num: " + correctNum); // TEST ONLY - REMOVE
                 System.out.println("Guess the value of a number between 1 and 100\n");
                 continue;
             }
