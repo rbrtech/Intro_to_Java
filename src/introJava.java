@@ -29,6 +29,25 @@ public class introJava {
 
 
 
+//      Create one variable each for three numbers of your choice
+
+
+
+//      Create an expression that prints the sum of all three numbers
+
+
+
+//      Create an expression that prints all three numbers multiplied
+
+
+
+//      Create an expression that determines if any two variables are equal
+
+
+
+//      Create an expression that determines if any of the variables are even numbers
+
+
 
     }
 }
